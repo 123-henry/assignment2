@@ -1,0 +1,10 @@
+number = [24, 36, 79, 20, 47]
+school_list = ['ruler',
+               'bread',
+               'pencil',
+               'pen',
+               'eraser',
+               ]
+print(school_list)
+school_list.reverse()
+print(school_list)
